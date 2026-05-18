@@ -70,7 +70,8 @@ I enjoy combining design, technology and experimentation to build projects that 
 
 # 🌍 Live Portfolio
 
-🔗 
+🔗 https://portfoliomikeramirez.netlify.app/
+
 
 ---
 
